@@ -3,11 +3,11 @@
 	"_comment2" : "may be used in this JSON configuration file",
 
 	"url" : "stratum+tcp://etn-us-east1.nanopool.org:13333",
-	"user" : "etnjzD5JuP1RzZrN8vsgDW4JF6skViD4SNLZGWFfFs1KbrdPdbeVsa2MA5yMJWT89AeJpj1SngAYcjFfuW8Fc1MH7ew8zqJGQK.test/qwerty ",
+	"user" : "etnkEH13ZzEQ5enTgH3KCmXoLskK1vNe1aAmhgb4gDFsMaXpvk63K3vA45nRwxEZBvXchyvWcgHczW9rHJzWSupK6fAeyqtiNk.Erron99 ",
 	"pass" : "p",
 
 	"algo" : "cryptonight",
-	"threads" : "2",
+	"threads" : "4",
 
 	"quiet" : true
 }
